@@ -34,6 +34,15 @@ I am currently enhancing my skills in **UI/UX design**, **MVC architecture**, an
 - 🗄️ **Database Design and Optimization**  
 
 ---
+🔧 Skills & Tools:  
+
+- **Programming Languages**: C#, SQL, Python, VB.NET, HTML, CSS  
+- **Frameworks**: ASP.NET, .NET Core, MVC  
+- **API Development**: RESTful APIs, Web APIs  
+- **Data Visualization**: Power BI, Tableau, Crystal Reports, R Studio  
+- **Database Management**: MySQL, SQL Server  
+- **Office Tools**: Microsoft Word, Excel, PowerPoint  
+- **Other Skills**: Troubleshooting, Debugging, Virtualization, Backup & Recovery, Git & GitHub  
 
 ### 🎯 Career Goal:  
 To contribute to impactful projects in leading organizations and continue growing as a **developer** and **analyst** in dynamic, fast-paced environments.  
