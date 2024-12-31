@@ -21,6 +21,7 @@ I am currently enhancing my skills in **UI/UX design**, **MVC architecture**, an
   <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png" alt="Power BI" width="60" height="60" style="margin: 5px;"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="40" style="margin: 5px;"/>   
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="100" height="40" style="margin: 5px;"/>  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTop_HdquJqt6UbxSNnfKWP6nZQCM0WqFbdTQ&s" alt="Crystal Reports" width="40" height="40" style="margin: 5px;"/>
 
 </p>  
 
